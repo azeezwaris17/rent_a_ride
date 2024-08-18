@@ -1,0 +1,604 @@
+[
+ {
+    "id": "1",
+    "name": "Toyota Camry 2024",
+    "make": "Toyota",
+    "model": "Camry",
+    "type": "Sedan",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Camry&make=Toyota&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Camry&make=Toyota&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#10,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.5L 4-cylinder",
+    "horsepower": "203 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "28 MPG city / 39 MPG highway"
+  },
+  {
+    "id": "2",
+    "name": "Honda Accord 2023",
+    "make": "Honda",
+    "model": "Accord",
+    "type": "Sedan",
+    "year": 2023,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Accord&make=Honda&modelYear=2023&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Accord&make=Honda&modelYear=2023&angle=13"
+    ],
+    "pricePerHour": "#9,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "1.5L Turbo 4-cylinder",
+    "horsepower": "192 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "30 MPG city / 38 MPG highway"
+  },
+  {
+    "id": "3",
+    "name": "Mercedes-Benz C-Class 2022",
+    "make": "Mercedes-Benz",
+    "model": "C-Class",
+    "type": "Luxury",
+    "year": 2022,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=C-Class&make=Mercedes-Benz&modelYear=2022&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=C-Class&make=Mercedes-Benz&modelYear=2022&angle=13"
+    ],
+    "pricePerHour": "#15,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.0L Turbo 4-cylinder",
+    "horsepower": "255 hp",
+    "seatingCapacity": 5,
+    "driveType": "Rear-Wheel Drive",
+    "mileage": "24 MPG city / 33 MPG highway"
+  },
+  {
+    "id": "4",
+    "name": "Ford Mustang 2024",
+    "make": "Ford",
+    "model": "Mustang",
+    "type": "Sport",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Mustang&make=Ford&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Mustang&make=Ford&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#20,000",
+    "fuelType": "Gasoline",
+    "transmission": "Manual",
+    "engine": "5.0L V8",
+    "horsepower": "450 hp",
+    "seatingCapacity": 4,
+    "driveType": "Rear-Wheel Drive",
+    "mileage": "15 MPG city / 24 MPG highway"
+  },
+  {
+    "id": "5",
+    "name": "Tesla Model 3 2023",
+    "make": "Tesla",
+    "model": "Model 3",
+    "type": "Electric",
+    "year": 2023,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Model 3&make=Tesla&modelYear=2023&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Model 3&make=Tesla&modelYear=2023&angle=13"
+    ],
+    "pricePerHour": "#18,000",
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "engine": "Electric Motor",
+    "horsepower": "283 hp",
+    "seatingCapacity": 5,
+    "driveType": "All-Wheel Drive",
+    "mileage": "138 MPGe city / 126 MPGe highway",
+    "range": "358 miles"
+  },
+  {
+    "id": "6",
+    "name": "BMW X5 2023",
+    "make": "BMW",
+    "model": "X5",
+    "type": "SUV",
+    "year": 2023,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=X5&make=BMW&modelYear=2023&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=X5&make=BMW&modelYear=2023&angle=13"
+    ],
+    "pricePerHour": "#12,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "3.0L Turbo Inline-6",
+    "horsepower": "335 hp",
+    "seatingCapacity": 5,
+    "driveType": "All-Wheel Drive",
+    "mileage": "21 MPG city / 26 MPG highway"
+  },
+  {
+    "id": "7",
+    "name": "Audi A6 2022",
+    "make": "Audi",
+    "model": "A6",
+    "type": "Luxury",
+    "year": 2022,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=A6&make=Audi&modelYear=2022&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=A6&make=Audi&modelYear=2022&angle=13"
+    ],
+    "pricePerHour": "#13,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.0L Turbo 4-cylinder",
+    "horsepower": "261 hp",
+    "seatingCapacity": 5,
+    "driveType": "All-Wheel Drive",
+    "mileage": "23 MPG city / 32 MPG highway"
+  },
+  {
+    "id": "8",
+    "name": "Chevrolet Tahoe 2023",
+    "make": "Chevrolet",
+    "model": "Tahoe",
+    "type": "SUV",
+    "year": 2023,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Tahoe&make=Chevrolet&modelYear=2023&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Tahoe&make=Chevrolet&modelYear=2023&angle=13"
+    ],
+    "pricePerHour": "#14,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "5.3L V8",
+    "horsepower": "355 hp",
+    "seatingCapacity": 8,
+    "driveType": "Rear-Wheel Drive",
+    "mileage": "15 MPG city / 20 MPG highway"
+  },
+  {
+    "id": "9",
+    "name": "Lexus RX 350 2024",
+    "make": "Lexus",
+    "model": "RX 350",
+    "type": "SUV",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=RX 350&make=Lexus&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=RX 350&make=Lexus&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#11,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "3.5L V6",
+    "horsepower": "295 hp",
+    "seatingCapacity": 5,
+    "driveType": "All-Wheel Drive",
+    "mileage": "19 MPG city / 26 MPG highway"
+  },
+  {
+    "id": "10",
+    "name": "Nissan Altima 2023",
+    "make": "Nissan",
+    "model": "Altima",
+    "type": "Sedan",
+    "year": 2023,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Altima&make=Nissan&modelYear=2023&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Altima&make=Nissan&modelYear=2023&angle=13"
+    ],
+    "pricePerHour": "#8,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.5L 4-cylinder",
+    "horsepower": "188 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "28 MPG city / 39 MPG highway"
+  },
+ {
+    "id": "11",
+    "name": "Toyota Camry 2022",
+    "make": "Toyota",
+    "model": "Camry",
+    "type": "Sedan",
+    "year": 2022,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Camry&make=Toyota&modelYear=2022&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Camry&make=Toyota&modelYear=2022&angle=13"
+    ],
+    "pricePerHour": "#9,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.5L 4-cylinder",
+    "horsepower": "203 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "28 MPG city / 39 MPG highway"
+  },
+  {
+    "id": "12",
+    "name": "Honda Accord 2023",
+    "make": "Honda",
+    "model": "Accord",
+    "type": "Sedan",
+    "year": 2023,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Accord&make=Honda&modelYear=2023&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Accord&make=Honda&modelYear=2023&angle=13"
+    ],
+    "pricePerHour": "#10,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "1.5L Turbo 4-cylinder",
+    "horsepower": "192 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "30 MPG city / 38 MPG highway"
+  },
+  {
+    "id": "13",
+    "name": "Tesla Model S 2024",
+    "make": "Tesla",
+    "model": "Model S",
+    "type": "Electric",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Model S&make=Tesla&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Model S&make=Tesla&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#22,000",
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "engine": "Electric Motor",
+    "horsepower": "670 hp",
+    "seatingCapacity": 5,
+    "driveType": "All-Wheel Drive",
+    "mileage": "396 MPGe city / 379 MPGe highway",
+    "range": "405 miles"
+  },
+  {
+    "id": "14",
+    "name": "Mercedes-Benz GLC 300 2023",
+    "make": "Mercedes-Benz",
+    "model": "GLC 300",
+    "type": "SUV",
+    "year": 2023,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=GLC 300&make=Mercedes-Benz&modelYear=2023&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=GLC 300&make=Mercedes-Benz&modelYear=2023&angle=13"
+    ],
+    "pricePerHour": "#18,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.0L Turbo 4-cylinder",
+    "horsepower": "255 hp",
+    "seatingCapacity": 5,
+    "driveType": "All-Wheel Drive",
+    "mileage": "22 MPG city / 29 MPG highway"
+  },
+  {
+    "id": "15",
+    "name": "Ford Mustang 2024",
+    "make": "Ford",
+    "model": "Mustang",
+    "type": "Coupe",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Mustang&make=Ford&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Mustang&make=Ford&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#20,000",
+    "fuelType": "Gasoline",
+    "transmission": "Manual",
+    "engine": "5.0L V8",
+    "horsepower": "450 hp",
+    "seatingCapacity": 4,
+    "driveType": "Rear-Wheel Drive",
+    "mileage": "15 MPG city / 24 MPG highway"
+  },
+  {
+    "id": "16",
+    "name": "Jaguar F-PACE 2024",
+    "make": "Jaguar",
+    "model": "F-PACE",
+    "type": "SUV",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=F-PACE&make=Jaguar&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=F-PACE&make=Jaguar&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#24,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.0L Turbo 4-cylinder",
+    "horsepower": "246 hp",
+    "seatingCapacity": 5,
+    "driveType": "All-Wheel Drive",
+    "mileage": "22 MPG city / 28 MPG highway"
+  },
+  {
+    "id": "17",
+    "name": "Porsche Cayenne 2024",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "type": "SUV",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Cayenne&make=Porsche&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Cayenne&make=Porsche&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#30,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "3.0L Turbo V6",
+    "horsepower": "335 hp",
+    "seatingCapacity": 5,
+    "driveType": "All-Wheel Drive",
+    "mileage": "19 MPG city / 23 MPG highway"
+  },
+  {
+    "id": "18",
+    "name": "Volkswagen Tiguan 2023",
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "type": "SUV",
+    "year": 2023,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Tiguan&make=Volkswagen&modelYear=2023&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=radiant-green&modelFamily=Tiguan&make=Volkswagen&modelYear=2023&angle=13"
+    ],
+    "pricePerHour": "#11,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.0L Turbo 4-cylinder",
+    "horsepower": "184 hp",
+    "seatingCapacity": 5,
+    "driveType": "All-Wheel Drive",
+    "mileage": "23 MPG city / 29 MPG highway"
+  },
+ {
+    "id": "19",
+    "name": "Honda Accord 2024",
+    "make": "Honda",
+    "model": "Accord",
+    "type": "Sedan",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=modern-steel-metallic&modelFamily=Accord&make=Honda&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=modern-steel-metallic&modelFamily=Accord&make=Honda&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#10,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "1.5L Turbo 4-cylinder",
+    "horsepower": "192 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "30 MPG city / 38 MPG highway"
+  },
+  {
+    "id": "20",
+    "name": "Chevrolet Malibu 2024",
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "type": "Sedan",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=summit-white&modelFamily=Malibu&make=Chevrolet&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=summit-white&modelFamily=Malibu&make=Chevrolet&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#9,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "1.5L Turbo 4-cylinder",
+    "horsepower": "160 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "29 MPG city / 36 MPG highway"
+  },
+  {
+    "id": "21",
+    "name": "Mazda6 2024",
+    "make": "Mazda",
+    "model": "6",
+    "type": "Sedan",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=soul-red&modelFamily=6&make=Mazda&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=soul-red&modelFamily=6&make=Mazda&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#11,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.5L 4-cylinder",
+    "horsepower": "187 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "26 MPG city / 35 MPG highway"
+  },
+  {
+    "id": "22",
+    "name": "Subaru Legacy 2024",
+    "make": "Subaru",
+    "model": "Legacy",
+    "type": "Sedan",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=crystal-black-silica&modelFamily=Legacy&make=Subaru&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=crystal-black-silica&modelFamily=Legacy&make=Subaru&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#12,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.4L Turbo 4-cylinder",
+    "horsepower": "260 hp",
+    "seatingCapacity": 5,
+    "driveType": "All-Wheel Drive",
+    "mileage": "24 MPG city / 32 MPG highway"
+  },
+  {
+    "id": "23",
+    "name": "Nissan Altima 2024",
+    "make": "Nissan",
+    "model": "Altima",
+    "type": "Sedan",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=super-black&modelFamily=Altima&make=Nissan&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=super-black&modelFamily=Altima&make=Nissan&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#10,500",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.0L Turbo 4-cylinder",
+    "horsepower": "248 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "28 MPG city / 39 MPG highway"
+  },
+  {
+    "id": "24",
+    "name": "Volkswagen Jetta 2024",
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "type": "Sedan",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=platinum-gray-metallic&modelFamily=Jetta&make=Volkswagen&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=platinum-gray-metallic&modelFamily=Jetta&make=Volkswagen&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#11,500",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "1.4L Turbo 4-cylinder",
+    "horsepower": "158 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "30 MPG city / 40 MPG highway"
+  },
+  {
+    "id": "25",
+    "name": "Kia Forte 2024",
+    "make": "Kia",
+    "model": "Forte",
+    "type": "Sedan",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=fire-orange&modelFamily=Forte&make=Kia&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=fire-orange&modelFamily=Forte&make=Kia&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#9,500",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.0L 4-cylinder",
+    "horsepower": "147 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "31 MPG city / 41 MPG highway"
+  },
+{
+    "id": "26",
+    "name": "Hyundai Sonata 2024",
+    "make": "Hyundai",
+    "model": "Sonata",
+    "type": "Sedan",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=phantom-black&modelFamily=Sonata&make=Hyundai&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=phantom-black&modelFamily=Sonata&make=Hyundai&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#10,200",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.5L 4-cylinder",
+    "horsepower": "191 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "27 MPG city / 37 MPG highway"
+  },
+  {
+    "id": "27",
+    "name": "Toyota Camry 2024",
+    "make": "Toyota",
+    "model": "Camry",
+    "type": "Sedan",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=midnight-black-metallic&modelFamily=Camry&make=Toyota&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=midnight-black-metallic&modelFamily=Camry&make=Toyota&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#11,000",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.5L 4-cylinder",
+    "horsepower": "203 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "28 MPG city / 39 MPG highway"
+  },
+  {
+    "id": "28",
+    "name": "Ford Fusion 2024",
+    "make": "Ford",
+    "model": "Fusion",
+    "type": "Sedan",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=lightning-blue&modelFamily=Fusion&make=Ford&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=lightning-blue&modelFamily=Fusion&make=Ford&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#9,800",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.0L Turbo 4-cylinder",
+    "horsepower": "245 hp",
+    "seatingCapacity": 5,
+    "driveType": "Front-Wheel Drive",
+    "mileage": "23 MPG city / 34 MPG highway"
+  },
+  {
+    "id": "29",
+    "name": "Chrysler 300 2024",
+    "make": "Chrysler",
+    "model": "300",
+    "type": "Sedan",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=velvet-red&modelFamily=300&make=Chrysler&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=velvet-red&modelFamily=300&make=Chrysler&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#12,500",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "3.6L V6",
+    "horsepower": "292 hp",
+    "seatingCapacity": 5,
+    "driveType": "Rear-Wheel Drive",
+    "mileage": "19 MPG city / 30 MPG highway"
+  },
+  {
+    "id": "30",
+    "name": "Buick Regal 2024",
+    "make": "Buick",
+    "model": "Regal",
+    "type": "Sedan",
+    "year": 2024,
+    "images": [
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=deep-azure&modelFamily=Regal&make=Buick&modelYear=2024&angle=29",
+      "https://cdn.imagin.studio/getimage?customer=hrjavascript-mastery&zoomType=fullscreen&paintdescription=deep-azure&modelFamily=Regal&make=Buick&modelYear=2024&angle=13"
+    ],
+    "pricePerHour": "#11,200",
+    "fuelType": "Gasoline",
+    "transmission": "Automatic",
+    "engine": "2.0L Turbo 4-cylinder",
+    "horsepower": "250 hp",
+    "seatingCapacity": 5,
+    "driveType": "All-Wheel Drive",
+    "mileage": "22 MPG city / 32 MPG highway"
+  }
+]
